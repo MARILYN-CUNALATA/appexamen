@@ -1,0 +1,7 @@
+{
+  "name": "correoApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
